@@ -1,9 +1,9 @@
-# Course orientation: Modern AI-Native software development and the Cyber Fabric Foundation
+# Course orientation: Modern AI-Native software development and the Constructor Fabric Foundation
 
-### Module overview
+## Module overview
 
 This course is about how software development changes in the AI era,
-with Cyber Fabric used as a practical open-source implementation of
+with Constructor Fabric used as a practical open-source implementation of
 AI-native software delivery.
 
 AI tools can help teams generate code, draft tests, explain unfamiliar
@@ -13,7 +13,7 @@ Requirements, architecture, design, validation, deployment, production
 operations, governance, reusable components, measurement, and feedback
 all still matter.
 
-Cyber Fabric provides a practical way to understand this broader shift.
+Constructor Fabric provides a practical way to understand this broader shift.
 It shows how a software delivery lifecycle can become more connected,
 traceable, governed, reusable, and measurable.
 
@@ -27,12 +27,12 @@ verified GitHub contribution or structured participation activity.
 - LO4: Explain the role, mission, and open-source model of the Cyber
   Fabric Foundation;
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery.
 
-### Cyber Fabric: connecting the software delivery lifecycle
+## Constructor Fabric: connecting the software delivery lifecycle
 
-**Cyber Fabric as a practical implementation of AI-native delivery**
+**Constructor Fabric as a practical implementation of AI-native delivery**
 
 AI is changing software development because it can now support tasks
 that previously required more manual effort. Developers and teams can
@@ -66,7 +66,7 @@ improving.
 | May produce plausible output. | Requires output to be checked against intent and constraints. |
 
 
-Cyber Fabric gives AI-native delivery a practical shape. It shows how
+Constructor Fabric gives AI-native delivery a practical shape. It shows how
 requirements, architecture, design, code, tests, deployment, production
 signals, reusable components, metrics, and contribution can be connected
 rather than treated as isolated pieces of work.
@@ -85,13 +85,13 @@ matter for delivery.
 | What production signal shows whether it works? | Connects delivery to real usage and feedback. |
 
 
-Cyber Fabric is positioned around these lifecycle connections. It is a
+Constructor Fabric is positioned around these lifecycle connections. It is a
 practical implementation of a more connected, governed, and measurable
 approach to modern software delivery.
 
-The Cyber Fabric Foundation and open-source model
+The Constructor Fabric Foundation and open-source model
 
-Cyber Fabric is supported by an open-source foundation model. This
+Constructor Fabric is supported by an open-source foundation model. This
 matters because learners are not only learning about a software delivery
 approach. They are also learning how an open ecosystem can be inspected,
 extended, improved, and contributed to.
@@ -138,7 +138,7 @@ whether the work is connected to clear requirements, sound design,
 validation, deployment readiness, operational signals, governance,
 reusable components, measurement, and feedback.\
 \
-Cyber Fabric is introduced as a practical open-source implementation of
+Constructor Fabric is introduced as a practical open-source implementation of
 this broader delivery model. Its value is not limited to one tool or
 interface. It helps frame software delivery as a connected lifecycle
 where planning, building, running, validation, reuse, measurement,
@@ -151,7 +151,7 @@ improved, and connected from intent to production.  
 
 # The AI acceleration gap: Why coding accelerates faster than delivery
 
-### Module overview
+## Module overview
 
 AI has significantly accelerated code development, but software delivery
 as a whole has not accelerated at the same rate. In many organizations,
@@ -181,10 +181,10 @@ Learning outcomes addressed
 - LO2: Explain why faster code generation does not automatically mean
   faster software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Beyond faster coding
+## Beyond faster coding
 
 How AI changes the coding bottleneck
 
@@ -333,7 +333,7 @@ acceptance criteria, checking architecture consistency, validating
 security expectations, and ensuring the team can trace production
 behavior back to the original intent.
 
-### Optional practical activity
+## Optional practical activity
 
 **LO Alignment: **This activity addresses LO7 by asking learners to
 apply the AI acceleration gap to a real workflow. It also reinforces
@@ -387,7 +387,7 @@ monitoring signal.\
 A strong answer should make clear: AI made one step faster, but delivery
 still depends on intent, fit, review evidence, validation, and feedback.
 
-### Module summary
+## Module summary
 
 This module focused on the AI acceleration gap: AI has significantly
 accelerated code development, but software delivery has not accelerated
@@ -410,7 +410,7 @@ delivery speed will continue to grow.  
 
 # From AI coding to AI-Native software delivery
 
-### Module overview
+## Module overview
 
 This module moves from the problem to the broader model of modern
 AI-native software delivery.
@@ -442,7 +442,7 @@ Learning outcomes addressed
 - LO3: Describe the plan-build-run model for AI-native software
   delivery.
 
-### From AI-Assisted coding to AI-Native delivery
+## From AI-Assisted coding to AI-Native delivery
 
 AI-assisted coding means using AI tools to support implementation tasks.
 A developer might ask AI to generate a function, explain a code block,
@@ -560,7 +560,7 @@ Better delivery measures include cycle time, review waiting time,
 deployment frequency, defect rate, incident volume, test quality,
 rework, bottlenecks, and production feedback.
 
-### Deeper dive: Artifact-backed AI-Native workflows
+## Deeper dive: Artifact-backed AI-Native workflows
 
 AI-native delivery depends on artifacts that are durable, inspectable,
 and connected. A prompt can start useful work, but a prompt by itself is
@@ -656,7 +656,7 @@ Good artifacts reduce repeated clarification, make AI output easier to
 evaluate, and help reviewers focus on judgment rather than
 reconstruction.
 
-### Optional practical activity
+## Optional practical activity
 
 **LO Alignment: **This activity addresses LO3 by asking learners to
 define plan, build, and run in their own context. It also addresses LO7
@@ -716,7 +716,7 @@ before asking AI to implement anything:
 Then decide which parts can be generated by AI, which parts should be
 checked deterministically, and which parts require human approval.
 
-### Module summary
+## Module summary
 
 This module moved from the delivery problem to the AI-native delivery
 model. It clarified that AI-assisted coding and AI-native delivery are
@@ -738,25 +738,25 @@ The lasting idea from this module is that AI-native delivery is not
 governed delivery system that links intent, implementation, validation,
 production signals, and feedback.  
 
-# Cyber Fabric as the solution: One connected fabric
+# Constructor Fabric as the solution: One connected fabric
 
-### Module overview
+## Module overview
 
-This module introduces Cyber Fabric as a practical implementation of
+This module introduces Constructor Fabric as a practical implementation of
 AI-native software delivery.
 
 The previous modules explained why faster coding does not automatically
-improve delivery. This module shows how Cyber Fabric addresses that
+improve delivery. This module shows how Constructor Fabric addresses that
 problem by connecting the software lifecycle across planning, building,
 running, validation, governance, reuse, measurement, and feedback.
 
-The module explains Cyber Fabric as a connected delivery fabric rather
+The module explains Constructor Fabric as a connected delivery fabric rather
 than only a code-generation tool. It shows how requirements,
 architecture, design, code, tests, deployment records, production
 signals, support feedback, and reusable components can be linked into a
 more coherent delivery flow.
 
-The key message is: Cyber Fabric helps teams move from isolated coding
+The key message is: Constructor Fabric helps teams move from isolated coding
 acceleration to system-level delivery improvement by connecting intent,
 implementation, validation, operations, and feedback.
 
@@ -765,15 +765,15 @@ Learning outcomes addressed
 - LO3: Describe the plan-build-run model for AI-native software
   delivery;
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Cyber Fabric as a connected delivery fabric
+## Constructor Fabric as a connected delivery fabric
 
-Cyber Fabric is a connected delivery fabric for AI-Native software
+Constructor Fabric is a connected delivery fabric for AI-Native software
 development. It helps connect the major parts of the software lifecycle
 so work does not remain scattered across disconnected tools, documents,
 repositories, tests, deployment records, and production dashboards.
@@ -791,14 +791,14 @@ cross-cutting questions: Which requirement does this code implement?
 Which design decision shaped it? Which tests validate it? Which release
 introduced the production issue?
 
-Cyber Fabric is designed around these connections. It supports a
+Constructor Fabric is designed around these connections. It supports a
 delivery model where planning, building, running, validation,
 governance, reuse, measurement, and contribution are part of one
 connected flow.
 
 Orchestration, governance, and reuse
 
-Cyber Fabric adds value in three connected ways: orchestration,
+Constructor Fabric adds value in three connected ways: orchestration,
 governance, and reuse. Orchestration connects the lifecycle. Governance
 controls how work moves through that lifecycle. Reuse reduces repeated
 work on common capabilities.
@@ -813,7 +813,7 @@ rework, delays, security issues, or operational problems.
 A team that only has orchestration may see connections but still lack
 rules. A team that only has governance may enforce checks but still
 duplicate common components. A team that only has reuse may save effort
-but still lack traceability from requirement to production. Cyber Fabric
+but still lack traceability from requirement to production. Constructor Fabric
 brings these ideas together.
 
 Example: role-management feature
@@ -835,16 +835,16 @@ violations. The release record links the feature to the requirement,
 implementation, and validation results. Production monitors audit logs,
 permission errors, and support tickets.
 
-### Deeper dive: Using the GitHub organization as a product map
+## Deeper dive: Using the GitHub organization as a product map
 
-Cyber Fabric is easier to understand when the GitHub repositories are
+Constructor Fabric is easier to understand when the GitHub repositories are
 viewed as a product map rather than as a random list of codebases. Each
 repository represents part of the delivery fabric: governed delivery
 workflows, analytics, reusable components, UI patterns, documentation,
 automation, code generation, or contribution support.
 
 A practical way to navigate the ecosystem is to group repositories by
-the three Cyber Fabric elements.
+the three Constructor Fabric elements.
 
 1\. Constructor-oriented repositories help explain governed AI-assisted
 delivery. Cyber Pilot is the main workflow and repository-context
@@ -888,13 +888,13 @@ course goal is practical fluency: understanding why each repository
 exists, which delivery problem it addresses, and how it fits into the
 wider fabric.
 
-### Optional practical activity
+## Optional practical activity
 
 **LO Alignment: **This activity addresses LO7 by asking learners to
-place Cyber Fabric in a realistic workflow and diagnose orchestration,
+place Constructor Fabric in a realistic workflow and diagnose orchestration,
 governance, and reuse gaps.
 
-Learners explain where Cyber Fabric would fit in their current
+Learners explain where Constructor Fabric would fit in their current
 toolchain.
 
 How to construct your answer
@@ -908,23 +908,24 @@ documentation, or monitoring.\
 Example: PRs are not linked to requirements, AI-generated code is hard
 to review, tests do not reflect acceptance criteria, or incidents do not
 feed back into planning.\
-**3. Cyber Fabric fit**\
+**3. Constructor Fabric fit**\
 Choose one:\
 - Constructor: traceability, requirements, validation, AI-governed
 SDLC;\
 - Insight: bottlenecks, metrics, AI adoption visibility;\
 - Ware: reusable components, UI patterns, platform capabilities.\
 **4. What stays in place**\
-Name the existing tools that remain.5. Expected improvement\
+Name the existing tools that remain.\
+**5. Expected improvement**\
 State one measurable or observable benefit.\
 \
-A strong answer is focused: one workflow, one gap, one Cyber Fabric
+A strong answer is focused: one workflow, one gap, one Constructor Fabric
 entry point, one expected improvement.
 
-### Module summary
+## Module summary
 
-This module introduced Cyber Fabric as a practical implementation of
-AI-Native software delivery. It positioned Cyber Fabric not as a
+This module introduced Constructor Fabric as a practical implementation of
+AI-Native software delivery. It positioned Constructor Fabric not as a
 code-generation tool or product interface, but as a connected delivery
 fabric for linking planning, building, running, validation, governance,
 reuse, measurement, contribution, and feedback.\
@@ -937,7 +938,7 @@ code faster but still struggle to validate whether the work matches
 intent, follows design decisions, deploys safely, or improves based on
 production evidence.\
 \
-The lasting idea from this module is that Cyber Fabric helps shift
+The lasting idea from this module is that Constructor Fabric helps shift
 software delivery from isolated AI-assisted tasks to a connected
 delivery system where intent, implementation, validation, operations,
 repositories, and feedback can be governed, traced, reused, measured,
@@ -945,7 +946,7 @@ and improved.  
 
 # Benefits of a connected AI-Native delivery fabric
 
-### Module overview
+## Module overview
 
 This module explains the benefits of a connected AI-native delivery
 fabric.
@@ -972,13 +973,13 @@ Learning outcomes addressed
 - LO2: Explain why faster code generation does not automatically mean
   faster software delivery;
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Why connection matters
+## Why connection matters
 
 End-to-end visibility
 
@@ -1014,7 +1015,7 @@ Bottleneck detection shows where work slows down. Reuse reduces repeated
 work on common capabilities such as billing, identity, access control,
 notifications, usage metering, audit logging, and integrations.
 
-### Deeper dive: Why connection matters
+## Deeper dive: Why connection matters
 
 The main module has already introduced the three core benefits of a
 connected delivery fabric: end-to-end visibility, controlled flows, and
@@ -1066,7 +1067,7 @@ evidence. Finally, ask which production or usage signal would tell the
 team whether the feature worked. If this path is difficult to follow,
 the delivery fabric is not yet doing its job.
 
-In Cyber Fabric, this idea is easiest to inspect through
+In Constructor Fabric, this idea is easiest to inspect through
 Constructor-oriented examples such as Cyber Pilot. In Cyber Pilot,
 learners can see how workflows, repository context, and validation are
 treated as part of the delivery surface. This example shows that
@@ -1182,32 +1183,32 @@ A connected delivery fabric also improves onboarding and contribution
 readiness. When artifacts, examples, validation rules, and repository
 roles are visible, new contributors can understand where to start and
 what kind of change is safe to propose. This is especially important in
-an open-source ecosystem such as Cyber Fabric, where useful first
+an open-source ecosystem such as Constructor Fabric, where useful first
 contributions may include clearer documentation, better examples,
 sharper acceptance criteria, or evidence-rich issue reports. This topic
 is developed further in the participation module.
 
-Where to inspect these ideas in Cyber Fabric
+Where to inspect these ideas in Constructor Fabric
 
-If you want to connect this module to the Cyber Fabric GitHub
+If you want to connect this module to the Constructor Fabric GitHub
 repositories, inspect the examples through the benefit you are studying,
 not alphabetically.
 
 - For controlled AI-assisted flows, inspect Cyber Pilot:
-  https://github.com/cyberfabric/cyber-pilot. Look for workflow,
+  https://github.com/constructorfabric/cyber-pilot. Look for workflow,
   context, configuration, generated integration, and validation ideas
   rather than deep internals.
 
 - For continuous acceleration through measurement, inspect Insight:
-  https://github.com/cyberfabric/insight. Focus on what delivery
+  https://github.com/constructorfabric/insight. Focus on what delivery
   questions the data and analytics model is meant to answer.
 
-- For reuse, inspect CyberFabric Core, FrontX, or DNA depending on your
+- For reuse, inspect ConstructorFabric Core, FrontX, or DNA depending on your
   role. These repositories show different ways reusable product,
   platform, UI, documentation, standards, and generation patterns can
   support delivery.
 
-### Module summary
+## Module summary
 
 This module explained the benefits of a connected AI-native delivery
 fabric. It focused on how connected delivery improves visibility,
@@ -1228,14 +1229,14 @@ about speed. It is about building a delivery system where work is
 visible from intent to operations, governed through clear flows, and
 improved through evidence, reuse, operational learning, and feedback.  
 
-# The three elements of Cyber Fabric
+# The three elements of Constructor Fabric
 
-### Module overview
+## Module overview
 
-This module explains the three main elements of Cyber Fabric: Cyber
+This module explains the three main elements of Constructor Fabric: Cyber
 Constructor, Cyber Insight, and Cyber Ware.
 
-Cyber Fabric is modular. It is not one single tool or feature. Each
+Constructor Fabric is modular. It is not one single tool or feature. Each
 element supports a different part of AI-native delivery. Cyber
 Constructor supports SDLC governance, specifications, traceability,
 validation, and controlled AI-assisted workflows. Cyber Insight supports
@@ -1254,16 +1255,16 @@ delivery.
 
 Learning outcomes addressed
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
 - LO6: Explain the purpose of Cyber Constructor, Cyber Insight, and
   Cyber Ware;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Cyber Constructor, Cyber Insight and Cyber Ware
+## Cyber Constructor, Cyber Insight and Cyber Ware
 
 Cyber Constructor
 
@@ -1310,11 +1311,11 @@ support a connected AI-native delivery system where requirements are
 governed, delivery outcomes are measured, and common platform
 capabilities are reused.
 
-### Deeper dive: Technical product orientation to Constructor, Insight, and Ware
+## Deeper dive: Technical product orientation to Constructor, Insight, and Ware
 
 The main module introduced Cyber Constructor, Cyber Insight, and Cyber
 Ware. In this Deeper Dive, those three elements become a structured
-guide to the Cyber Fabric GitHub organization. The objective is not to
+guide to the Constructor Fabric GitHub organization. The objective is not to
 memorize every repository; it is to understand how the repository
 landscape expresses the product model, where a technical learner should
 begin, and how each repository supports AI-native delivery, inspection,
@@ -1332,10 +1333,10 @@ How to use this repository guide
 Do not read the GitHub organization alphabetically. Read it by role in
 the delivery fabric. To understand governed AI-assisted delivery, start
 with Cyber Pilot and the SDLC kit if both are visible in the current
-Cyber Fabric GitHub organization. To understand measurement, start with
+Constructor Fabric GitHub organization. To understand measurement, start with
 Insight and Insight Front if they are available. To understand reusable
 platform and UI capability, start with publicly visible Ware-oriented
-repositories such as CyberFabric Core and FrontX. For each repository,
+repositories such as ConstructorFabric Core and FrontX. For each repository,
 begin with the README and then inspect the visible guides, workflows,
 examples, configuration files, validation files, issues, and
 contribution guidance.
@@ -1346,10 +1347,10 @@ Repository map
 | Area | Repositories | How to use them |
 |---|---|---|
 | Constructor core | cyber-pilot, cyber-pilot-kit-sdlc | Inspect these first when you want to understand governed AI-assisted delivery, SDLC artifacts, traceability, validation, and example workflows. |
-| Constructor adjunct or reference | cyber-constructor, cyber-pilot | Use these carefully as supporting or historical context unless current documentation shows a direct course use. |
+| Constructor adjunct or reference | studio, cyber-pilot | Use these carefully as supporting or historical context unless current documentation shows a direct course use. |
 | Insight | insight, insight-front | Inspect these when you want to understand delivery analytics, identity resolution, dashboards, bottlenecks, and AI adoption measurement. |
-| Ware platform and tooling | cyberware-rust, cyberware-csharp | Inspect these when you want to understand reusable Cyber Ware foundations for enterprise-grade SaaS products, including backend framework and middleware, modern SaaS UI development, and related C# modules or platform components. |
-| Ware UI, docs, and standards | cybereare-frontx, DNA | Inspect these when you want to understand UI, development principles, guidelines, and instructions for multi-tenant SaaS platform and application development. |
+| Ware platform and tooling | cyberware-rust, constructorfabric-core-csharp | Inspect these when you want to understand reusable Cyber Ware foundations for enterprise-grade SaaS products, including backend framework and middleware, modern SaaS UI development, and related C# modules or platform components. |
+| Ware UI, docs, and standards | frontx, DNA | Inspect these when you want to understand UI, development principles, guidelines, and instructions for multi-tenant SaaS platform and application development. |
 | Product and learning support | website, ai-courses | Use these for product positioning, course-production references,. |
 
 
@@ -1369,7 +1370,7 @@ Constructor-related material.
 
 Cyber Pilot
 
-**Repository: **<https://github.com/cyberfabric/cyber-pilot>
+**Repository:** <https://github.com/constructorfabric/cyber-pilot>
 
 Cyber Pilot formalizes a traceable delivery system to connect
 requirements, design, plans, and code within AI-assisted workflows. A
@@ -1389,7 +1390,7 @@ can be enforced across complex, AI-driven engineering projects.
 
 Cyber Pilot SDLC kit
 
-**Repository: **[https://github.com/cyberfabric/cyber-constructor-pilot-kit-sdlc](https://github.com/cyberfabric/cyber-pilot-kit-sdlc)
+**Repository:** [https://github.com/constructorfabric/cyber-pilot-kit-sdlc](https://github.com/constructorfabric/cyber-pilot-kit-sdlc)
 
 The SDLC kit packages common artifact categories and delivery gates. A
 typical flow moves from requirement to design to decomposition to
@@ -1411,11 +1412,11 @@ The following repositories are useful to know, but they are not the main
 starting point for most learners. Inspect them later if your role or
 contribution path points there.
 
-- **cyber-constructor**: <https://github.com/cyberfabric/cyber-constructor>
+- **studio**: <https://github.com/constructorfabric/studio>
 
-- **cyber-pilot-old**: <https://github.com/cyberfabric/cyber-pilot-old>
+- **cyber-pilot-old**: <https://github.com/constructorfabric/cyber-pilot-old>
 
-- **cyberware-obsidian**: <https://github.com/cyberfabric/cyberware-obsidian>
+- **cyberware-obsidian**: <https://github.com/constructorfabric/cyberware-obsidian>
 
 Practical Constructor learning path
 
@@ -1463,7 +1464,7 @@ without outcome improvement. The value comes from interpretation.
 
 Insight
 
-**Repository: **[https://github.com/cyberfabric/cyber-insight](https://github.com/cyberfabric/insight)
+**Repository:** [https://github.com/constructorfabric/insight](https://github.com/constructorfabric/insight)
 
 Cyber Insight formalizes a medallion data architecture to transform
 fragmented toolchain events into governed business metrics. A typical
@@ -1485,7 +1486,7 @@ monorepo.
 
 Insight Front
 
-**Repository: **[https://github.com/cyberfabric/cyber-insight-front](https://github.com/cyberfabric/insight-front)
+**Repository:** [https://github.com/constructorfabric/insight-front](https://github.com/constructorfabric/insight-front)
 
 Cyber Insight Frontend formalizes a decision intelligence platform for
 engineering analytics, productivity insights, and team health. A typical
@@ -1526,11 +1527,11 @@ delivery and creates inconsistency. Ware asks which capabilities should
 become reusable so teams can focus more time on differentiated product
 work.
 
-CyberFabric Core
+ConstructorFabric Core
 
-**Repository: **[https://github.com/cyberfabric/cyberware-rust](https://github.com/cyberfabric/cyberfabric-core)
+**Repository:** [https://github.com/constructorfabric/constructorfabric-core](https://github.com/constructorfabric/constructorfabric-core)
 
-CyberFabric Core is the main technical anchor for Ware. It should be
+ConstructorFabric Core is the main technical anchor for Ware. It should be
 understood as a secure modular framework and middleware foundation, not
 as a finished SaaS product. For this course, you do not need to inspect
 every Rust module. Understand the product idea: Core provides reusable
@@ -1545,7 +1546,7 @@ Cargo.toml show the quality and validation posture.
 
 FrontX
 
-**Repository: **<https://github.com/cyberfabric/frontx>
+**Repository:** <https://github.com/constructorfabric/frontx>
 
 FrontX is the UI development kit anchor. It is relevant because
 AI-native delivery also applies to user interfaces. AI can generate
@@ -1564,7 +1565,7 @@ VALIDATION_REPORT.md
 
 DNA
 
-**Repository: **<https://github.com/cyberfabric/DNA>
+**Repository:** <https://github.com/constructorfabric/DNA>
 
 DNA provides development norms and architecture guidance. This is
 important because AI agents and humans both need explicit conventions.
@@ -1583,12 +1584,12 @@ depth in the core course. Inspect them when your role, adoption path, or
 contribution interest connects to them. Do not treat thin, early,
 placeholder, or legacy repositories as primary technical anchors.
 
-- **website**: <https://github.com/cyberfabric/website> - product
+- **website**: <https://github.com/constructorfabric/website> - product
   positioning and public-facing context
 
-- **ai-courses**: <https://github.com/cyberfabric/ai-courses> - courses
+- **ai-courses**: <https://github.com/constructorfabric/ai-courses> - courses
 
-- **cyberware-csharp**: <https://github.com/cyberfabric/cyberfabric-core-csharp> -
+- **constructorfabric-core-csharp**: <https://github.com/constructorfabric/constructorfabric-core-csharp> -
   C# reference material or role-specific platform comparison
 
 Practical Ware learning path
@@ -1615,9 +1616,9 @@ This is the connected fabric idea in practice. AI becomes one
 participant in a delivery system that can structure work, reuse proven
 patterns, validate evidence, and learn from outcomes.
 
-### Module summary
+## Module summary
 
-This module introduced the three main elements of Cyber Fabric: Cyber
+This module introduced the three main elements of Constructor Fabric: Cyber
 Constructor, Cyber Insight, and Cyber Ware. These elements are modular,
 but they work together to make AI-native delivery more governed,
 measurable, and reusable.\
@@ -1633,68 +1634,68 @@ business support modules, operational support modules, platform
 services, integration engines, development kits, UI patterns,
 documentation workflows, CLI support, and code-generation resources.\
 \
-The lasting idea from this module is that Cyber Fabric is not one
+The lasting idea from this module is that Constructor Fabric is not one
 isolated capability. Constructor governs the work, Insight measures the
 work, and Ware provides reusable building blocks for lifecycle
 improvement.  
 
-# What Cyber Fabric is not: Positioning against existing tools
+# What Constructor Fabric is not: Positioning against existing tools
 
-### Module overview
+## Module overview
 
-This module clarifies what Cyber Fabric does and does not replace.
+This module clarifies what Constructor Fabric does and does not replace.
 
-Cyber Fabric should not be understood as a replacement for every tool in
+Constructor Fabric should not be understood as a replacement for every tool in
 the software delivery stack. Teams may still use their existing IDEs, AI
 coding assistants, project management tools, Git repositories, CI/CD
 pipelines, service catalogs, cloud platforms, infrastructure systems,
 monitoring tools, and support systems.
 
-The module explains that Cyber Fabric adds connection, governance,
+The module explains that Constructor Fabric adds connection, governance,
 traceability, validation, reuse, and visibility around the existing
 toolchain. It is not an IDE, not a CI/CD tool, not a project tracker,
 not a service registry, and not production infrastructure. Its purpose
 is to connect and govern the lifecycle across these systems.
 
-The key message is: Cyber Fabric complements the existing toolchain by
+The key message is: Constructor Fabric complements the existing toolchain by
 connecting and governing delivery work rather than replacing every tool
 teams already use.
 
 Learning outcomes addressed
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Key repositories and when to use them
+## Key repositories and when to use them
 
-What Cyber Fabric does not replace
+What Constructor Fabric does not replace
 
-Cyber Fabric does not replace IDEs or AI coding tools. Developers may
+Constructor Fabric does not replace IDEs or AI coding tools. Developers may
 still use Claude Code, Cursor, Copilot, Codex, or their preferred IDE.
-Those tools help with coding. Cyber Fabric addresses the broader
+Those tools help with coding. Constructor Fabric addresses the broader
 delivery system around coding: specifications, traceability, validation,
 governance, reuse, and measurement.
 
-Cyber Fabric does not replace CI/CD tools such as Jenkins or GitHub
+Constructor Fabric does not replace CI/CD tools such as Jenkins or GitHub
 Actions. It can work with those systems by adding structure,
 traceability, and validation rules that make pipeline checks more
 meaningful.
 
-Cyber Fabric does not replace project management tools such as
+Constructor Fabric does not replace project management tools such as
 Atlassian, Linear, or similar systems. It focuses on connecting the
 lifecycle artifacts behind the tasks: requirements, specifications,
 design, code, tests, deployments, and production feedback.
 
-Cyber Fabric also does not replace service registries or cloud
+Constructor Fabric also does not replace service registries or cloud
 infrastructure. Backstage and similar tools can remain. AWS, Azure, GCP,
 and other infrastructure choices can remain.
 
-What Cyber Fabric adds instead
+What Constructor Fabric adds instead
 
-Cyber Fabric adds connection, governance, traceability, validation,
+Constructor Fabric adds connection, governance, traceability, validation,
 reuse, and visibility around the existing toolchain. The point is not
 replacement. The point is to make the delivery lifecycle more connected
 and governed.
@@ -1704,12 +1705,12 @@ Fabric can help link the requirement to a specification, connect the
 specification to code and tests, validate traceability in CI, and
 connect production feedback to future planning.
 
-### Optional practical activity
+## Optional practical activity
 
 **LO Alignment: **This activity addresses LO7 by asking learners to
 apply the replace, connect, and govern framing to a real toolchain.
 
-Learners map Cyber Fabric against tools they already use and identify
+Learners map Constructor Fabric against tools they already use and identify
 what stays in place.
 
 How to construct your answer
@@ -1719,8 +1720,8 @@ AI coding assistant, CI/CD pipeline, project-management tool, cloud
 platform, monitoring system, or documentation tool. Then explain that
 this tool would stay in place.
 
-Next, describe what Cyber Fabric would add around it. The key is not
-replacement, but connection. For example, Cyber Fabric would not replace
+Next, describe what Constructor Fabric would add around it. The key is not
+replacement, but connection. For example, Constructor Fabric would not replace
 GitHub Actions, but it could help make the checks more meaningful by
 connecting them to requirements, validation rules, or traceability. It
 would not replace Jira, but it could help connect work items to design
@@ -1728,39 +1729,39 @@ artifacts, code, tests, and operational feedback.
 
 A strong answer should clearly separate:\
 - What stays in place: the existing tool;\
-- What Cyber Fabric adds: traceability, governance, validation,
+- What Constructor Fabric adds: traceability, governance, validation,
 visibility, reuse, or delivery context;\
 - Why this matters: one practical improvement for the delivery process.​
 
-The answer should show that Cyber Fabric complements the current
+The answer should show that Constructor Fabric complements the current
 toolchain rather than replacing it.
 
-### Module summary
+## Module summary
 
-This module clarified what Cyber Fabric does and does not replace. It
-explained that Cyber Fabric should not be understood as a replacement
+This module clarified what Constructor Fabric does and does not replace. It
+explained that Constructor Fabric should not be understood as a replacement
 for every tool in the software delivery stack.\
 \
 The module showed that teams may continue using their existing IDEs, AI
 coding assistants, project management tools, Git repositories, CI/CD
 pipelines, service catalogs, cloud platforms, infrastructure systems,
-monitoring tools, and support systems. Cyber Fabric adds value around
+monitoring tools, and support systems. Constructor Fabric adds value around
 this existing toolchain by connecting and governing the delivery work
 that moves across those systems. It adds traceability, validation,
 visibility, reuse, and lifecycle connection around tools that may
 otherwise remain fragmented.\
 \
-The lasting idea from this module is that Cyber Fabric is not a
+The lasting idea from this module is that Constructor Fabric is not a
 rip-and-replace platform. Its value is in complementing the existing
 stack by connecting requirements, specifications, design, code, tests,
 deployment, production signals, and feedback into a more coherent and
 governed delivery flow.  
 
-# Cyber Fabric compared with other AI and software development tools
+# Constructor Fabric compared with other AI and software development tools
 
-### Module overview
+## Module overview
 
-This module compares Cyber Fabric with other AI software development
+This module compares Constructor Fabric with other AI software development
 tool categories.
 
 AI coding tools help individual developers write, explain, refactor, and
@@ -1768,7 +1769,7 @@ review code faster. Spec-driven tools help teams move from structured
 requirements or specifications toward generated code. AI app builders
 help create simple applications, prototypes, and internal tools quickly.
 
-Cyber Fabric addresses a broader lifecycle problem. It focuses on
+Constructor Fabric addresses a broader lifecycle problem. It focuses on
 connecting requirements, design, code, tests, deployment, production,
 governance, reuse, measurement, and feedback. Its concern is not only
 whether code can be generated, but whether the work is traceable,
@@ -1776,7 +1777,7 @@ validated, governed, deployable, observable, reusable, and connected to
 delivery outcomes.
 
 The key message is: AI coding tools accelerate individual coding tasks,
-while Cyber Fabric supports lifecycle acceleration by connecting and
+while Constructor Fabric supports lifecycle acceleration by connecting and
 governing the full delivery system.
 
 Learning outcomes addressed
@@ -1784,13 +1785,13 @@ Learning outcomes addressed
 - LO2: Explain why faster code generation does not automatically mean
   faster software delivery;
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### How to compare tools responsibly
+## How to compare tools responsibly
 
 Compared with AI coding tools
 
@@ -1798,7 +1799,7 @@ AI coding tools make individual developers faster. They help generate
 code, explain code, refactor code, and create tests or suggestions. That
 is valuable, but it optimizes the coding step.
 
-Cyber Fabric aims to make the organization faster by orchestrating the
+Constructor Fabric aims to make the organization faster by orchestrating the
 lifecycle. It does not replace coding assistants. It governs and
 connects the work around them.
 
@@ -1810,7 +1811,7 @@ Fabric adds traceability IDs, deterministic checks, compliance-aligned
 specification quality, brownfield support, cross-repository validation,
 and CI integration.
 
-The key distinction is production-grade governance. Cyber Fabric is not
+The key distinction is production-grade governance. Constructor Fabric is not
 only about creating specifications; it is about connecting
 specifications to design, code, tests, deployment, production behavior,
 and feedback.
@@ -1818,15 +1819,15 @@ and feedback.
 Compared with AI app builders
 
 AI app builders can help non-developers create simple internal
-applications or prototypes. Cyber Fabric is positioned for professional
+applications or prototypes. Constructor Fabric is positioned for professional
 teams building enterprise-grade systems that require multi-tenancy,
 Kubernetes-native delivery, role-based access, attribute-based access,
 security requirements, automated tests, stress testing, load testing,
 CI, deployment, migrations, operations, and governance.
 
-### Deeper dive: How to compare tools responsibly
+## Deeper dive: How to compare tools responsibly
 
-Cyber Fabric sits near several adjacent tool categories: AI coding
+Constructor Fabric sits near several adjacent tool categories: AI coding
 assistants, spec-driven development tools, and AI app builders. The
 categories overlap, but they solve different parts of the delivery
 problem. A responsible comparison should therefore use evaluation
@@ -1902,9 +1903,9 @@ connected delivery fabric becomes more important when work must be
 traceable, validated, reusable, measured, and governed across
 professional delivery environments.
 
-### Module summary
+## Module summary
 
-This module compared Cyber Fabric with other AI software development
+This module compared Constructor Fabric with other AI software development
 tool categories. It explained that AI coding tools, spec-driven tools,
 and AI app builders are useful, but they solve different parts of the
 delivery problem.\
@@ -1912,23 +1913,23 @@ delivery problem.\
 The module showed that AI coding tools support individual coding tasks,
 spec-driven tools move from structured requirements toward generated
 outputs, and app builders support rapid creation of simple applications
-or prototypes. Cyber Fabric addresses a broader lifecycle problem:
+or prototypes. Constructor Fabric addresses a broader lifecycle problem:
 whether work is traceable, validated, governed, deployable, observable,
 reusable, measurable, and connected to delivery outcomes. Responsible
 comparison should consider lifecycle coverage, source of truth,
 traceability, deterministic validation, brownfield support, CI/CD fit,
 human approval, outcome measurement, and extensibility.\
 \
-The lasting idea from this module is that Cyber Fabric belongs in the
+The lasting idea from this module is that Constructor Fabric belongs in the
 lifecycle acceleration category. It complements generation tools by
 connecting requirements, design, code, tests, deployment, production,
 governance, measurement, and feedback.  
 
 # Unique capabilities for AI-Native software delivery
 
-### Module overview
+## Module overview
 
-This module examines the specific capabilities that make Cyber Fabric
+This module examines the specific capabilities that make Constructor Fabric
 useful for AI-native delivery.
 
 The module focuses on specification templates, checklists, customizable
@@ -1956,13 +1957,13 @@ Learning outcomes addressed
 - LO3: Describe the plan-build-run model for AI-native software
   delivery;
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### How to evaluate AI-Native delivery capabilities in practice
+## How to evaluate AI-Native delivery capabilities in practice
 
 By this point in the course, the main question is no longer only whether
 AI can help write code. The more important question is whether a
@@ -2045,7 +2046,7 @@ When evaluating specification quality, ask:  
 - Could another developer understand the intended work without asking
   for a private explanation?
 
-In Cyber Fabric terms, this is where structured delivery artifacts
+In Constructor Fabric terms, this is where structured delivery artifacts
 matter. The value of an artifact is not that it creates documentation
 for its own sake. Its value is that it becomes shared context for
 planning, implementation, AI assistance, review, validation, and future
@@ -2220,7 +2221,7 @@ delivery fabric by starting over. They need a way to connect what
 already exists. A useful system should help teams improve their current
 environment without demanding immediate rip-and-replace migration.
 
-Cyber Fabric’s modular framing is relevant here. Constructor, Insight,
+Constructor Fabric’s modular framing is relevant here. Constructor, Insight,
 and Ware can be understood as entry points rather than a single
 all-or-nothing replacement stack. A team might start with structured
 delivery artifacts, a metrics/Insight use case, or a reusable Ware-style
@@ -2349,9 +2350,9 @@ and how to explain their change. That is why small contributions such as
 better acceptance criteria, clearer examples, improved checklists, or
 stronger documentation can be valuable.
 
-### Module summary
+## Module summary
 
-This module examined the capabilities that make Cyber Fabric useful for
+This module examined the capabilities that make Constructor Fabric useful for
 AI-Native delivery. It focused on durable specifications, checklists,
 governed code-generation workflows, traceability IDs, deterministic CI
 checks, requirements-quality alignment, cross-repository validation,
@@ -2374,14 +2375,14 @@ remains aligned with intent.  
 
 # Adoption model: No lock-in, no rip-and-replace
 
-### Module overview
+## Module overview
 
-This module explains how Cyber Fabric can be adopted incrementally.
+This module explains how Constructor Fabric can be adopted incrementally.
 
-Cyber Fabric is not designed as an all-or-nothing platform replacement.
+Constructor Fabric is not designed as an all-or-nothing platform replacement.
 Teams do not need to abandon their existing IDEs, repositories, project
 trackers, CI/CD pipelines, cloud platforms, or monitoring systems.
-Instead, they can start with the Cyber Fabric element that addresses
+Instead, they can start with the Constructor Fabric element that addresses
 their clearest delivery problem.
 
 The module explains a problem-first adoption model. Teams may start with
@@ -2390,23 +2391,23 @@ traceability and governance, or Cyber Ware for reusable components. It
 also introduces adoption levels that allow teams to move from feedback
 and visibility to governance and reusable component contribution.
 
-The key message is: Cyber Fabric supports incremental adoption, allowing
+The key message is: Constructor Fabric supports incremental adoption, allowing
 teams to keep their existing stack, start small, and expand based on
 practical value.
 
 Learning outcomes addressed
 
-- LO5: Position Cyber Fabric as a practical implementation of AI-native
+- LO5: Position Constructor Fabric as a practical implementation of AI-native
   software delivery;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Incremental integration with existing stacks
+## Incremental integration with existing stacks
 
 Start with the delivery problem
 
-Cyber Fabric adoption should begin with the delivery problem, not with
+Constructor Fabric adoption should begin with the delivery problem, not with
 the assumption that the whole platform must be adopted at once.
 
 A team may have many tools already in place. It may already use an IDE,
@@ -2433,7 +2434,7 @@ when the next element solves a real problem.  
 
 Use Cyber Insight, Cyber Constructor, or Cyber Ware independently
 
-Cyber Fabric is modular by design. The three main elements can be used
+Constructor Fabric is modular by design. The three main elements can be used
 independently and then combined as needed.
 
 **Cyber Insight is** relevant when the main problem is visibility. It
@@ -2459,14 +2460,14 @@ when the next step has a clear purpose.  
 
 Keep the existing stack
 
-Cyber Fabric is designed to work with existing tools, frameworks, and
+Constructor Fabric is designed to work with existing tools, frameworks, and
 CI/CD. It does not require a platform replacement or architecture
 rewrite. It complements current engineering workflows.
 
 This matters because most teams already have a working software delivery
 environment. Replacing everything at once creates unnecessary
 disruption. A more practical approach is to keep the existing stack and
-add Cyber Fabric capabilities where they solve a specific problem.
+add Constructor Fabric capabilities where they solve a specific problem.
 
 For example, a team may already use:
 
@@ -2481,7 +2482,7 @@ For example, a team may already use:
 | Monitoring | Existing observability or incident tools. |
 
 
-Cyber Fabric does not need to replace these. The adoption question is
+Constructor Fabric does not need to replace these. The adoption question is
 where connection, traceability, governance, reuse, or measurement should
 be added. A team that already has a CI/CD pipeline may add traceability
 checks or validation rules. A team that already has repositories may
@@ -2491,7 +2492,7 @@ improvement. The key idea is not migration. The key idea is connection.
 
 Open, modular, and extensible
 
-Cyber Fabric is also designed to be open, modular, and extensible. The
+Constructor Fabric is also designed to be open, modular, and extensible. The
 foundation is open source under Apache 2.0, and the architecture is
 plugin-based and extensible. It supports most languages, stacks, and
 deployment models.
@@ -2500,7 +2501,7 @@ This matters because different teams have different stacks. A delivery
 fabric cannot assume that every team uses the same language, framework,
 deployment model, or cloud environment.
 
-Cyber Fabric’s adoption model supports that variation by allowing teams
+Constructor Fabric’s adoption model supports that variation by allowing teams
 to start with one useful capability and extend from there. The open and
 plugin-based model also supports contribution. Teams can provide
 feedback, improve tools, improve components, develop new components, or
@@ -2519,7 +2520,7 @@ The adoption model therefore has four connected ideas:
 
 Adoption levels
 
-Cyber Fabric participation can also be understood through levels.
+Constructor Fabric participation can also be understood through levels.
 
 
 | Level | Adoption focus |
@@ -2555,7 +2556,7 @@ A good adoption path should answer three questions.
 | Question | Why it matters |
 |---|---|
 | What delivery problem is most visible now? | Adoption should begin with a real problem, not a general platform decision. |
-| Which Cyber Fabric element addresses that problem most directly? | Cyber Insight, Cyber Constructor, and Cyber Ware solve different problems. |
+| Which Constructor Fabric element addresses that problem most directly? | Cyber Insight, Cyber Constructor, and Cyber Ware solve different problems. |
 | What evidence will show whether the adoption helped? | Adoption should expand based on feedback and measurable value. |
 
 
@@ -2567,7 +2568,7 @@ common services repeatedly should examine whether Cyber Ware components
 or contribution paths are the better starting point. The correct
 adoption path is the one that fits the problem.
 
-### Optional practical activity
+## Optional practical activity
 
 **LO Alignment: **This activity addresses LO7 by asking learners to
 recommend an incremental adoption move based on a specific delivery
@@ -2575,10 +2576,10 @@ problem.
 
 **Design a Narrow Adoption Experiment**
 
-Cyber Fabric is designed to support modular adoption. You do not need to
+Constructor Fabric is designed to support modular adoption. You do not need to
 replace an existing development stack to begin evaluating its value. In
 this activity, you will apply the adoption model by designing one small
-experiment that tests whether a Cyber Fabric capability could improve a
+experiment that tests whether a Constructor Fabric capability could improve a
 specific delivery problem.
 
 The goal is not to design a full rollout. The goal is to define a
@@ -2607,7 +2608,7 @@ problem, not a general desire to “improve development” or “use AI
 better.” The problem is specific enough to investigate: review speed is
 affected because reviewers do not have enough planning context.
 
- 2. Cyber Fabric entry point: Which Cyber Fabric element is the best
+ 2. Constructor Fabric entry point: Which Constructor Fabric element is the best
 first entry point? Choose one: Constructor / Insight / Ware
 
 Constructor\
@@ -2625,7 +2626,7 @@ and implementation. A Constructor-oriented experiment can test whether
 clearer requirements, acceptance criteria, and delivery artifacts make
 implementation and review easier to understand.\
 \
-This answer is appropriate because it connects the selected Cyber Fabric
+This answer is appropriate because it connects the selected Constructor Fabric
 element directly to the delivery problem. It does not choose Constructor
 just because it is the most visible element; it chooses Constructor
 because the bottleneck is in the plan-to-build transition.​
@@ -2644,7 +2645,7 @@ structured delivery context around one feature.\
 \
 This is important because it respects the no-lock-in and
 no-rip-and-replace adoption model. The experiment is not a migration
-project. It is a narrow test of whether one Cyber Fabric-style practice
+project. It is a narrow test of whether one Constructor Fabric-style practice
 can improve one part of the existing delivery process.
 
  5. Smallest thing to inspect or improve: What is the smallest artifact,
@@ -2750,12 +2751,12 @@ the pilot across the organization. The answer shows that adoption should
 proceed through evidence: try, learn, refine, and expand only if the
 result is useful.
 
-### Module summary
+## Module summary
 
-This module explained the Cyber Fabric adoption model. It clarified that
-Cyber Fabric is not designed as an all-or-nothing platform replacement,
+This module explained the Constructor Fabric adoption model. It clarified that
+Constructor Fabric is not designed as an all-or-nothing platform replacement,
 and teams do not need to abandon their existing tools to begin using
-Cyber Fabric concepts or capabilities.\
+Constructor Fabric concepts or capabilities.\
 \
 The module showed that adoption should begin with the clearest delivery
 problem. Teams lacking visibility may start with Cyber Insight. Teams
@@ -2766,19 +2767,19 @@ then expand through levels, from visibility and feedback to governance
 and reusable component contribution, without treating the levels as a
 forced sequence.\
 \
-The lasting idea from this module is that Cyber Fabric supports
+The lasting idea from this module is that Constructor Fabric supports
 incremental adoption. Teams can keep their existing stack, start small,
 use the open and extensible model, solve a real delivery problem, and
 expand when there is evidence of value.  
 
 # How to participate: Use, fork, report issues, contribute
 
-### Module overview
+## Module overview
 
 This module prepares learners to complete the practical contribution
 requirement.
 
-The course is not only about understanding Cyber Fabric conceptually. It
+The course is not only about understanding Constructor Fabric conceptually. It
 also includes practical participation in the open-source ecosystem.
 Participation can be technical or non-technical. A valid contribution
 may include a GitHub issue, documentation improvement, clearer
@@ -2789,9 +2790,9 @@ The module introduces three participation levels: Level 0, Level 1, and
 Level 2. Each level builds on the previous one, starting with Cyber
 Insight, then adding Cyber Constructor tools, and then adding Cyber Ware
 components. Additionally it introduces the six contribution paths
-defined for Cyber Fabric.
+defined for Constructor Fabric.
 
-The key message is: Participation in Cyber Fabric can begin at different
+The key message is: Participation in Constructor Fabric can begin at different
 levels, but valid course evidence must show a concrete GitHub
 contribution or structured participation activity.
 
@@ -2800,11 +2801,11 @@ Learning outcomes addressed
 - LO4: Explain the role, mission, and open-source model of the Cyber
   Fabric Foundation.
 
-### Contribution paths
+## Contribution paths
 
 Choosing a contribution entry point
 
-Cyber Fabric participation can connect to the same three levels
+Constructor Fabric participation can connect to the same three levels
 introduced in the adoption model. A contribution may focus on Cyber
 Insight, Cyber Constructor tools, or Cyber Ware components.
 
@@ -2825,7 +2826,7 @@ Cyber Constructor tools, then add Cyber Ware components.
 
 Contribution paths
 
-Cyber Fabric defines six contribution paths.
+Constructor Fabric defines six contribution paths.
 
 
 | No | Contribution path | Description |
@@ -2833,12 +2834,12 @@ Cyber Fabric defines six contribution paths.
 | 1 | New skills, kits, and plugins for Cyber Constructor tools. | Provide new skills, kits, or plugins for Cyber Constructor tools. |
 | 2 | Improvements to Cyber Constructor tools. | Improve Cyber Constructor tools. |
 | 3 | Improvements to existing Cyber Ware components. | Improve existing Cyber Ware components. |
-| 4 | New Cyber Ware components from the roadmap. | Develop new Cyber Ware components from the Cyber Fabric roadmap. |
+| 4 | New Cyber Ware components from the roadmap. | Develop new Cyber Ware components from the Constructor Fabric roadmap. |
 | 5 | New Cyber Ware components outside the roadmap. | Propose and develop new Cyber Ware components not from the roadmap. |
-| 6 | Third-party integrations. | Implement integrations between Cyber Fabric and third-party systems. |
+| 6 | Third-party integrations. | Implement integrations between Constructor Fabric and third-party systems. |
 
 
-These six paths define how participants can extend the Cyber Fabric
+These six paths define how participants can extend the Constructor Fabric
 ecosystem.  
 
 Valid course evidence
@@ -2876,48 +2877,48 @@ The evidence should show that participation has taken place. It should
 connect to one of the defined participation levels or contribution
 paths.
 
-### Deeper dive: Choosing a useful cyber fabric contribution path
+## Deeper dive: Choosing a useful constructor fabric contribution path
 
 The main module introduced the formal participation levels, the six
 contribution paths, and the kinds of evidence that count as course
 participation. This Deeper Dive helps you turn that framework into one
-concrete action inside the Cyber Fabric GitHub ecosystem.
+concrete action inside the Constructor Fabric GitHub ecosystem.
 
 You should not begin by asking, *What can I change?* Begin by
-asking, *Which part of Cyber Fabric am I looking at, and what kind of
+asking, *Which part of Constructor Fabric am I looking at, and what kind of
 contribution belongs there?* The answer depends on the repository, the
 evidence you find, and the contribution path that best fits the work.
 
 Start from the repository role
 
-Cyber Fabric is a multi-repository ecosystem. You should use the
+Constructor Fabric is a multi-repository ecosystem. You should use the
 repository map from Module 6 before choosing a contribution path. You
-can also open the [Cyber Fabric GitHub
-organization](https://github.com/cyberfabric) directly and inspect the
+can also open the [Constructor Fabric GitHub
+organization](https://github.com/constructorfabric) directly and inspect the
 repository list, but do not treat the repositories as a flat set of
 codebases. Each repository supports a different part of the delivery
 fabric.
 
 If you want to improve governed AI-assisted delivery, start with
 Constructor-oriented repositories such as [Cyber
-Pilot](https://github.com/cyberfabric/cyber-pilot) or the [Cyber Pilot
-SDLC kit](https://github.com/cyberfabric/cyber-pilot-kit-sdlc) These
+Pilot](https://github.com/constructorfabric/cyber-pilot) or the [Cyber Pilot
+SDLC kit](https://github.com/constructorfabric/cyber-pilot-kit-sdlc) These
 repositories are relevant when the issue is about requirements,
 artifacts, workflows, traceability, validation, or safe AI-assisted
 delivery examples.
 
 If you want to improve delivery measurement or analytics interpretation,
-start with [Insight](https://github.com/cyberfabric/insight) or [Insight
-Front](https://github.com/cyberfabric/insight-front). These repositories
+start with [Insight](https://github.com/constructorfabric/insight) or [Insight
+Front](https://github.com/constructorfabric/insight-front). These repositories
 are relevant when the issue is about metric definitions, connector
 scenarios, identity resolution, dashboard meaning, delivery bottlenecks,
 or AI adoption evidence.
 
 If you want to improve reusable platform, UI, documentation start with
 the relevant Ware-oriented repository. Useful starting points
-include [CyberFabric
-Core](https://github.com/cyberfabric/cyberfabric-core), [FrontX](https://github.com/cyberfabric/frontx),
-and [DNA](https://github.com/cyberfabric/DNA).
+include [ConstructorFabric
+Core](https://github.com/constructorfabric/constructorfabric-core), [FrontX](https://github.com/constructorfabric/frontx),
+and [DNA](https://github.com/constructorfabric/DNA).
 
 This repository selection step matters. A technically correct
 contribution can still be misplaced. An ambiguous Insight metric should
@@ -2939,16 +2940,16 @@ the repository has Issues or Pull Requests enabled, inspect them to
 understand current problems and contribution patterns.
 
 A weak participation statement says: The docs should be better. A
-stronger Cyber Fabric statement says: The SDLC kit explains artifact
+stronger Constructor Fabric statement says: The SDLC kit explains artifact
 flow, but the validation point after modifying a kit artifact is not
 obvious. A short note after the setup instructions could help new users
 understand when to validate. The stronger statement names the repository
 area, the problem, the affected user, and a concrete improvement.
 Furthermore, the wording should reflect the products and the architecture
-of the Github repositories because Cyber Fabric to make sure that
-confusion is reduced.
+of the GitHub repositories because Constructor Fabric helps make sure
+that confusion is reduced.
 
-Apply the six contribution paths to real Cyber Fabric work
+Apply the six contribution paths to real Constructor Fabric work
 
 The main module lists six contribution paths. You should now connect
 those paths to the repository map. The purpose is not to choose the most
@@ -2958,8 +2959,8 @@ repository, the evidence you found, and your current contribution depth.
 New skills, kits, and plugins for Cyber Constructor tools
 
 This path fits Constructor-oriented repositories, especially [Cyber
-Pilot](https://github.com/cyberfabric/cyber-pilot) and the [Cyber Pilot
-SDLC kit](https://github.com/cyberfabric/cyber-pilot-kit-sdlc). It is
+Pilot](https://github.com/constructorfabric/cyber-pilot) and the [Cyber Pilot
+SDLC kit](https://github.com/constructorfabric/cyber-pilot-kit-sdlc). It is
 relevant when you identify a repeatable workflow, artifact pattern,
 validation rule, or extension that could help Constructor tools support
 governed delivery more clearly.
@@ -2974,8 +2975,8 @@ it would affect, and how it could be validated.
 Improvements to Cyber Constructor tools
 
 This is often the best first path for learners. It fits [Cyber
-Pilot](https://github.com/cyberfabric/cyber-pilot), and the [Cyber Pilot
-SDLC kit](https://github.com/cyberfabric/cyber-pilot-kit-sdlc). A useful
+Pilot](https://github.com/constructorfabric/cyber-pilot), and the [Cyber Pilot
+SDLC kit](https://github.com/constructorfabric/cyber-pilot-kit-sdlc). A useful
 improvement might clarify a workflow step, improve an artifact template,
 add acceptance criteria to a feature artifact, improve validation
 wording, or report ambiguity in artifact flow.
@@ -2983,8 +2984,8 @@ wording, or report ambiguity in artifact flow.
 Improvements to existing Cyber Ware components
 
 This path fits existing reusable assets in repositories such
-as [CyberFabric
-Core](https://github.com/cyberfabric/cyberfabric-core), [FrontX](https://github.com/cyberfabric/frontx), [DNA](https://github.com/cyberfabric/DNA).
+as [ConstructorFabric
+Core](https://github.com/constructorfabric/constructorfabric-core), [FrontX](https://github.com/constructorfabric/frontx), [DNA](https://github.com/constructorfabric/DNA).
 You should consider it when an existing reusable component, tool,
 guideline, command, template, or documentation surface could be made
 clearer or easier to use.
@@ -3069,7 +3070,7 @@ requirements, acceptance criteria, workflow instructions, setup
 guidance, validation notes, examples, templates, dashboards, metric
 definitions, documentation structure, and contribution explanations.
 
-These contributions are valuable because Cyber Fabric is an AI-native
+These contributions are valuable because Constructor Fabric is an AI-native
 delivery ecosystem. Humans and AI agents both need clearer context. A
 better acceptance criterion can make future AI-assisted implementation
 safer. A clearer validation note can make contribution review more
@@ -3079,7 +3080,7 @@ model in a real workflow.
 This does not mean code contributions are unimportant. It means code
 contributions should come after the relevant repository, architecture,
 validation path, and maintainer expectations have been inspected. A deep
-change to CyberFabric Core, Insight pipeline logic, FrontX internals,
+change to ConstructorFabric Core, Insight pipeline logic, FrontX internals,
 code-generation behavior, or validation tooling should not be the first
 step unless you can explain the architecture and test path clearly.
 
@@ -3087,7 +3088,7 @@ Make the contribution easy to review
 
 A useful contribution package should not be long, but it should answer
 the reviewer’s basic questions. What changed? Why does it matter in the
-Cyber Fabric delivery model? Which repository surface is affected? What
+Constructor Fabric delivery model? Which repository surface is affected? What
 evidence led to the change? How was it checked? What remains open?
 
 The summary should connect to delivery value. Updated docs is weak. For
@@ -3102,10 +3103,10 @@ clarification, formatting cleanup, example change, and implementation
 patch in the same branch. A focused branch and clear pull request reduce
 review burden.
 
-### Module summary
+## Module summary
 
-This module moved from learning about Cyber Fabric to participating in
-the Cyber Fabric ecosystem. It explained that open-source participation
+This module moved from learning about Constructor Fabric to participating in
+the Constructor Fabric ecosystem. It explained that open-source participation
 is not limited to technical code contributions.\
 \
 The module showed that useful participation may take the form of a
@@ -3125,12 +3126,12 @@ governance, reuse, integration, validation, or delivery practice.  
 
 # Role-based application paths
 
-### Module overview
+## Module overview
 
-This module helps learners apply Cyber Fabric concepts to their own role
+This module helps learners apply Constructor Fabric concepts to their own role
 or work context.
 
-Cyber Fabric is relevant to different audiences in different ways.
+Constructor Fabric is relevant to different audiences in different ways.
 Developers may focus on specifications, traceability, validation,
 repositories, and code-related contribution. Product staff may focus on
 requirements, acceptance criteria, roadmap alignment, and lifecycle
@@ -3143,7 +3144,7 @@ integrations, reusable components, and customer use cases.
 The module helps learners move from understanding concepts to applying
 them in a practical context.
 
-The key message is: Cyber Fabric concepts can be applied differently
+The key message is: Constructor Fabric concepts can be applied differently
 across roles, but the shared goal is better connected, governed, and
 measurable delivery.
 
@@ -3152,14 +3153,14 @@ Learning outcomes addressed
 - LO6: Explain the purpose of Cyber Constructor, Cyber Insight, and
   Cyber Ware;
 
-- LO7: Apply Cyber Fabric concepts to their own role, work, or study
+- LO7: Apply Constructor Fabric concepts to their own role, work, or study
   context.
 
-### Role-based pathways
+## Role-based pathways
 
-Applying Cyber Fabric by role
+Applying Constructor Fabric by role
 
-Cyber Fabric is not only relevant to developers. It is a software
+Constructor Fabric is not only relevant to developers. It is a software
 delivery model that affects how different roles define work, build work,
 validate work, measure work, reuse work, and improve work.
 
@@ -3174,7 +3175,7 @@ is improving delivery outcomes. A partner or service provider may
 experience it as repeated customer-specific implementation work that
 could be handled through reusable components or integrations.
 
-Cyber Fabric gives these roles a shared delivery language. The role
+Constructor Fabric gives these roles a shared delivery language. The role
 focus may differ, but the same concepts remain important: traceability,
 validation, visibility, governance, reuse, measurement, and
 contribution.
@@ -3183,20 +3184,20 @@ contribution.
 | Role context | Practical focus |
 |---|---|
 | Constructor Tech developers | Cyber Constructor, specifications, traceability, code validation, and contribution. |
-| Acronis / Virtuozzo technical staff | Applying Cyber Fabric concepts to complex platform and SaaS delivery. |
+| Acronis / Virtuozzo technical staff | Applying Constructor Fabric concepts to complex platform and SaaS delivery. |
 | Product / project / business staff | Plan-build-run, requirements, visibility, governance, and measurable improvement. |
 | Students | AI-native development concepts and open-source contribution practice. |
 | Acronis MSPs / Virtuozzo partners | Adoption levels, integration opportunities, Cyber Ware value, and customer use cases. |
 | Companies using Constructor Tech software | AI-assisted delivery, reusable software components, and governed adoption. |
 
-> The key question for each role is not “Which Cyber Fabric term should I memorize?” The better question is:
+> The key question for each role is not “Which Constructor Fabric term should I memorize?” The better question is:
 >
-> *Which delivery problem does this role influence, and which Cyber Fabric concept helps address it?*
+> *Which delivery problem does this role influence, and which Constructor Fabric concept helps address it?*
 
 
 Constructor Tech developers: traceability, validation, and contribution
 
-For developers, Cyber Fabric concepts are closely connected to
+For developers, Constructor Fabric concepts are closely connected to
 specifications, traceability, validation, repositories, and
 contribution.
 
@@ -3213,7 +3214,7 @@ deployments, and operations into a connected flow. It also supports
 traceability IDs, deterministic CI checks, cross-repository validation,
 and AI governance.
 
-A developer applying Cyber Fabric concepts might ask:
+A developer applying Constructor Fabric concepts might ask:
 
 
 | Developer question | Why it matters |
@@ -3234,7 +3235,7 @@ Acronis and Virtuozzo technical staff: complex platform and SaaS
 delivery
 
 Technical staff working in complex platform, infrastructure, or SaaS
-environments may apply Cyber Fabric concepts at a broader system level.
+environments may apply Constructor Fabric concepts at a broader system level.
 
 These environments often involve multiple services, repositories,
 deployment targets, infrastructure layers, APIs, security controls, and
@@ -3254,7 +3255,7 @@ integration engines.
 A technical platform application might look like this:
 
 
-| Delivery concern | Cyber Fabric application |
+| Delivery concern | Constructor Fabric application |
 |---|---|
 | Multiple repositories must stay consistent. | Use traceability and cross-repository validation. |
 | AI-generated code must follow architecture rules. | Use specifications, checklists, and validation checks. |
@@ -3269,7 +3270,7 @@ contribution, or structured feedback on toolchain fit.
 
 Product staff: requirements and acceptance criteria
 
-For product staff, Cyber Fabric concepts are most closely connected to
+For product staff, Constructor Fabric concepts are most closely connected to
 requirement quality, acceptance criteria, roadmap clarity, and lifecycle
 visibility.
 
@@ -3310,7 +3311,7 @@ requirement or workflow.
 
 Project and delivery staff: bottlenecks, dependencies, and coordination
 
-For project and delivery staff, Cyber Fabric concepts are most closely
+For project and delivery staff, Constructor Fabric concepts are most closely
 connected to workflow visibility, bottleneck detection, dependencies,
 and delivery coordination.
 
@@ -3324,7 +3325,7 @@ benchmarking, roles, activities, source-system connectors, AI adoption
 correlation, and visibility across teams and tools. It helps move
 delivery conversations away from guesswork and toward evidence.
 
-A project or delivery role might use Cyber Fabric concepts to ask:
+A project or delivery role might use Constructor Fabric concepts to ask:
 
 
 | Delivery question | Possible signal |
@@ -3343,7 +3344,7 @@ build, and run are weak.
 
 Business staff: adoption value, risk, and measurable improvement
 
-For business staff, Cyber Fabric concepts are most closely connected to
+For business staff, Constructor Fabric concepts are most closely connected to
 adoption value, operational risk, productivity visibility, and
 measurable improvement.
 
@@ -3376,7 +3377,7 @@ Cyber Ware should be piloted first.
 
 Students and new contributors: learning through practical participation
 
-For students and new contributors, Cyber Fabric provides a way to learn
+For students and new contributors, Constructor Fabric provides a way to learn
 modern AI-native delivery through real open-source participation.
 
 Contribution does not need to begin with code. A student may review
@@ -3419,7 +3420,7 @@ delivery, open-source collaboration, and practical improvement.
 Partners and service providers: integrations, reusable components, and
 customer use cases
 
-For partners and service providers, Cyber Fabric concepts are closely
+For partners and service providers, Constructor Fabric concepts are closely
 connected to adoption levels, integration opportunities, Cyber Ware
 value, and customer use cases.
 
@@ -3429,7 +3430,7 @@ difficult to maintain. Cyber Ware is relevant because it focuses on
 reusable components, business support modules, operational support
 modules, platform services, and integration engines.
 
-Partners may also identify useful integrations between Cyber Fabric and
+Partners may also identify useful integrations between Constructor Fabric and
 third-party systems. These could include service desks, monitoring
 tools, CRM systems, billing platforms, identity providers, CI/CD
 systems, or cloud platforms.
@@ -3437,7 +3438,7 @@ systems, or cloud platforms.
 A partner or service provider might ask:
 
 
-| Partner question | Cyber Fabric connection |
+| Partner question | Constructor Fabric connection |
 |---|---|
 | Which customer problems repeat across environments? | Cyber Ware component opportunity |
 | Which third-party systems need to connect? | Integration proposal |
@@ -3452,7 +3453,7 @@ GitHub issue describing a repeatable customer need.
 
 Companies using Constructor Tech software: governed AI-assisted delivery
 
-Companies using Constructor Tech software may apply Cyber Fabric
+Companies using Constructor Tech software may apply Constructor Fabric
 concepts to improve AI-assisted delivery without replacing their
 existing tools or workflows.
 
@@ -3464,7 +3465,7 @@ Fabric concepts help connect the work across those systems.
 A company might begin by asking:
 
 
-| Current challenge | Cyber Fabric concept |
+| Current challenge | Constructor Fabric concept |
 |---|---|
 | AI-generated code is hard to validate. | Cyber Constructor, traceability, validation. |
 | Delivery bottlenecks are unclear. | Cyber Insight, productivity benchmarking. |
@@ -3479,7 +3480,7 @@ traceability, or repeated component development. Then they can decide
 whether Cyber Insight, Cyber Constructor, or Cyber Ware is the most
 appropriate first step.
 
-Connecting role needs to Cyber Fabric elements
+Connecting role needs to Constructor Fabric elements
 
 Cyber Constructor, Cyber Insight, and Cyber Ware support different
 needs, but they are not limited to one audience.
@@ -3503,13 +3504,13 @@ for validation and Cyber Ware for reusable patterns. A partner may use
 Cyber Ware for reusable components and Cyber Insight to identify
 adoption value.
 
-The important decision is not which role “owns” Cyber Fabric. The
+The important decision is not which role “owns” Constructor Fabric. The
 important decision is which delivery problem needs to be improved and
-which Cyber Fabric element can help.
+which Constructor Fabric element can help.
 
-### Module summary
+## Module summary
 
-This module showed how Cyber Fabric concepts apply across different
+This module showed how Constructor Fabric concepts apply across different
 roles and work contexts. It explained that AI-native delivery is not
 owned by one role, because different people influence different parts of
 the same delivery lifecycle.\
@@ -3525,7 +3526,7 @@ service providers, and companies using Constructor Tech software may
 propose integrations, reusable components, customer use cases, or
 ecosystem improvements.\
 \
-The lasting idea from this module is that Cyber Fabric becomes useful
+The lasting idea from this module is that Constructor Fabric becomes useful
 when each role strengthens the part of delivery it influences and
 connects that work to intent, implementation, validation, operations,
 measurement, reuse, contribution, and feedback.  
@@ -3533,7 +3534,7 @@ measurement, reuse, contribution, and feedback.  
 # Final exam
 
 Welcome to the graded assessment for this module. This quiz is designed
-to evaluate your understanding of the **Cyber Fabric** ecosystem. Please
+to evaluate your understanding of the **Constructor Fabric** ecosystem. Please
 review the following instructions carefully before beginning your
 attempt.
 

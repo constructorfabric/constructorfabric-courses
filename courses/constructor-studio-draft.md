@@ -1,8 +1,8 @@
 # Constructor Studio Academy - Course Blueprint and Table of Contents
 
 > NOTE: These course materials are a draft, generated from the following source repositories:
-> - https://github.com/cyberfabric/cyber-constructor (to be renamed `constructor-studio`)
-> - https://github.com/cyberfabric/cyber-constructor-kit-sdlc (to be renamed `constructor-studio-kit-sdlc`)
+> - https://github.com/constructorfabric/studio
+> - https://github.com/constructorfabric/studio-kit-sdlc
 
 ## 1. Target Audience, Problem, and Solution
 
@@ -84,7 +84,7 @@ Description: All lessons use the standard Constructor Studio terms and tools: Co
 - 2.2.2 CLI tool name: `cfs`
 - 2.2.3 Root skill and activation: `/cf`
 - 2.2.4 Studio command surface: `/cf-studio`
-- 2.2.5 Core workflow commands: `/cf-plan`, `/cf-generate`, `/cf-analyze`
+- 2.2.5 Core skills: `/cf-plan`, `/cf-write-docs`, `/cf-coding`, `/cf-explore`
 - 2.2.6 Kit workflow commands: `/cf-{kit}-{name}`
 - 2.2.7 Naming practice: choosing the right command form
 
@@ -258,7 +258,7 @@ Description: Learners perform a small but meaningful first run without overloadi
 
 #### Lessons and Checkpoints
 
-- 4.6.1 Why first use should often be `/cf-analyze` or `/cf-plan`
+- 4.6.1 Why first use should often be `/cf-explore` or `/cf-plan`
 - 4.6.2 First prompt patterns that work
 - 4.6.3 Reading the response structure
 - 4.6.4 Deciding the next action
@@ -266,7 +266,7 @@ Description: Learners perform a small but meaningful first run without overloadi
 
 ## 5. Operator Track - Daily Workflows
 
-Description: This part teaches the core workflows an operator uses every day: plan, generate, analyze, validate, review, and iterate.
+Description: This part teaches the core workflows an operator uses every day: plan, write documents, implement, explore, validate, review, and iterate.
 
 ### 5.1 Workflow Selection
 
@@ -275,8 +275,8 @@ Description: Learners learn to choose the right workflow before asking the agent
 #### Lessons and Checkpoints
 
 - 5.1.1 `/cf-plan` for large or risky work
-- 5.1.2 `/cf-generate` for creating or changing artifacts and code
-- 5.1.3 `/cf-analyze` for validation, review, and inspection
+- 5.1.2 `/cf-write-docs` and `/cf-sdlc-doc-*` for creating or changing artifacts
+- 5.1.3 `/cf-coding`, `/cf-sdlc-implement`, and review skills for code changes, validation, and inspection
 - 5.1.4 `/cf-studio` as the broader command surface
 - 5.1.5 Kit-specific commands with `/cf-{kit}-{name}`
 - 5.1.6 Checkpoint: choose a workflow for each scenario
@@ -294,9 +294,9 @@ Description: This module teaches how to decompose work into phase files and chec
 - 5.2.5 Execution readiness and validation
 - 5.2.6 Lab: create a plan for a medium-risk change
 
-### 5.3 Generating Artifacts with `/cf-generate`
+### 5.3 Writing Artifacts with `/cf-write-docs` and `/cf-sdlc-doc-*`
 
-Description: Learners create and update structured artifacts using templates, examples, rules, and confirmation gates. The module focuses on bounded generation rather than free-form writing.
+Description: Learners create and update structured artifacts using templates, examples, rules, and confirmation gates. The module focuses on bounded document authoring rather than free-form writing.
 
 #### Lessons and Checkpoints
 
@@ -320,9 +320,9 @@ Description: This module teaches how code changes are constrained by approved re
 - 5.4.5 Validation after implementation
 - 5.4.6 Lab: implement a bounded feature from a spec
 
-### 5.5 Analyzing Artifacts with `/cf-analyze`
+### 5.5 Reviewing Artifacts with Dedicated Review Skills
 
-Description: Learners validate artifacts through deterministic gates and semantic review. The module shows why a validator pass alone is not the same as a complete review.
+Description: Learners validate artifacts through deterministic gates and semantic review. The module shows why a validator pass alone is not the same as a complete review, and routes review work to dedicated skills such as `/cf-write-docs`, `/cf-sdlc-pr-review`, and `/cf-sdlc-change-impact-analysis`.
 
 #### Lessons and Checkpoints
 
@@ -871,8 +871,9 @@ Description: This mapping covers AI coding tool commands and skills.
 - Root command or skill: `/cf`
 - Studio surface: `/cf-studio`
 - Plan workflow: `/cf-plan`
-- Generate workflow: `/cf-generate`
-- Analyze workflow: `/cf-analyze`
+- Document-writing skills: `/cf-write-docs`, `/cf-sdlc-doc-prd`, `/cf-sdlc-doc-design`, `/cf-sdlc-doc-adr`
+- Code implementation skills: `/cf-coding`, `/cf-sdlc-implement`
+- Review and exploration skills: `/cf-explore`, `/cf-sdlc-pr-review`, `/cf-sdlc-change-impact-analysis`
 - Kit workflow pattern: `/cf-{kit}-{name}`
 
 ### A.3 Course Writing Rules
