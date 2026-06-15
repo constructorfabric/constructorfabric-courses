@@ -29,13 +29,20 @@
 
 This document is a script pack for six 5-minute overview videos about Constructor Studio v1. Each video should feel like a simple story for a wide audience: first the problem, then the solution, then how the solution works.
 
-Use minimal text on screen. Let the narrator explain. Let animation show growth, fragmentation, connection, and control.
+Use clear on-screen text throughout, not minimal text only. Let the narrator explain, and let text, subtitles, diagrams, and animation reinforce the same point so learners can hear and see the structure at the same time.
 
 Default story spine for every overview:
 
 1. Problem: AI tools now help teams generate much more code, markdown, specs, tasks, tests, and documentation. In mid-size and large organizations, the number of files and handoffs grows quickly. Existing tools can help generate even more, but they do not automatically give the organization control.
 2. Solution: Constructor Studio is a customizable team environment for organizing AI-assisted software delivery across Product Managers, Architects, DevLeads, Developers, and QA engineers.
 3. How it works: Studio routes work through shared workflows, file-backed evidence, role-specific skills, repeatable validation, and traceability between documents, code, and tests.
+
+Studio should be presented as covering the full software lifecycle: Plan, Build, and Operate.
+
+- Plan: intent, vision, discovery, strategy, definition.
+- Build: architecture, construction, validation, release.
+- Operate: operations, support, intelligence, optimization.
+- Required on-screen lifecycle line or diagram in every overview: Intent -> Vision -> Discover -> Define -> Design -> Build -> Validate -> Release -> Operate -> Support -> Learn -> Evolve.
 
 Keep technical names late in the story. Start with the organizational pain, not with commands or internal mechanics.
 
@@ -53,7 +60,7 @@ Do not mention router-level workflow names in learner-facing video scripts.
 
 ### Story Goal
 
-Explain why Constructor Studio exists for teams and organizations, not just for individual AI prompting.
+Explain why Constructor Studio was created, what goals it serves, and why teams and organizations need it beyond individual AI prompting.
 
 ### Narrator Script and Visual Direction
 
@@ -62,9 +69,9 @@ Explain why Constructor Studio exists for teams and organizations, not just for 
 | 0:00-0:35 | Modern AI tools give software teams a real productivity boost. They help write code, create markdown files, draft specs, generate tests, and explain unfamiliar systems much faster than before. | Show a team using AI tools. Code files, markdown docs, tasks, and tests appear rapidly around them. | AI makes more |
 | 0:35-1:10 | But that boost creates a new problem. In a growing organization, the number of generated files and decisions can explode. Requirements drift. Design docs become stale. Tests stop matching intent. Code changes are hard to connect back to why they exist. | The generated files spread into disconnected clusters. Some links fade, some files conflict, some are marked incomplete. | More output, less control |
 | 1:10-1:45 | Tools like OpenSpec and similar systems can help teams produce structured specs. That is useful. But generating more documents is not the same as keeping an organization aligned, consistent, and reviewable across teams. | Show a “generate specs” machine producing clean documents, then zoom out to messy handoffs between PM, architecture, development, and QA. | Generation is not governance |
-| 1:45-2:20 | Constructor Studio is designed for that organizational layer. It gives teams a shared environment for AI-assisted delivery, where product work, architecture work, coding work, and QA work can stay connected. | The scattered files move into one shared delivery map with role lanes. | One shared delivery flow |
-| 2:20-3:05 | Studio is not only for one person writing better prompts. It is for collaboration between roles and between teams. Product Managers shape requirements. Architects turn intent into decisions and design. Developers implement from approved context. QA checks behavior against traceable evidence. | PM, Architect, Developer, and QA lanes connect through shared files. | Teams, not solo prompting |
-| 3:05-3:45 | The basic idea is simple: work is routed into the right workflow, with the right context, and with checks that make the result easier to inspect. Instead of disconnected AI sessions across tools and teams, the organization gets a repeatable path from intent to implementation and review. | Scattered AI sessions across teams connect into a guided path: intent, design, feature, code, tests, review. | Right workflow, right context |
+| 1:45-2:20 | Constructor Studio was created for that organizational layer. Its goals are to keep AI-assisted delivery connected, reviewable, and adaptable across teams, so product work, architecture work, coding work, and QA work do not drift apart. | The scattered files move into one shared delivery map with role lanes and connecting lines. | Created for connected delivery |
+| 2:20-3:05 | Studio is not only for one person writing better prompts. It is for collaboration between roles and between teams across the full software lifecycle. Product Managers shape requirements. Architects turn intent into decisions and design. Developers implement from approved context. QA checks behavior against traceable evidence. | PM, Architect, Developer, and QA lanes connect through shared files, then expand into lifecycle phases. | Teams across the lifecycle |
+| 3:05-3:45 | The basic idea is simple: work is routed into the right workflow, with the right context, and with checks that make the result easier to inspect. Studio supports Plan, Build, and Operate as one delivery system: Intent -> Vision -> Discover -> Define -> Design -> Build -> Validate -> Release -> Operate -> Support -> Learn -> Evolve. | Scattered AI sessions across teams connect into a guided lifecycle path that spans planning, building, and operating. Keep the full lifecycle sequence visible on screen as a single line or clear diagram: Intent -> Vision -> Discover -> Define -> Design -> Build -> Validate -> Release -> Operate -> Support -> Learn -> Evolve. | Plan -> Build -> Operate; full lifecycle: Intent -> Vision -> Discover -> Define -> Design -> Build -> Validate -> Release -> Operate -> Support -> Learn -> Evolve |
 | 3:45-4:25 | Studio works on top of the tools teams already like: Claude Code, GitHub Copilot, Cursor, and similar AI coding environments. It does not ask the organization to replace its technology stack just to get control over AI-assisted delivery. | Existing AI tools stay in place while Studio adds a workflow and evidence layer above them. | Keep your tools |
 | 4:25-4:45 | Studio is also customizable. An organization can adapt templates, rules, workflows, validation, and codebase conventions instead of throwing away its existing process. The default SDLC kit gives teams a starting point they can adapt. | A default workflow adapts into several company-specific variants. | Fit your process |
 | 4:45-5:00 | The outcome is control. AI can still help teams move faster, but the work becomes easier to connect, review, validate, and maintain. Constructor Studio turns AI-assisted output into a team delivery system. | End on a clean map where docs, code, tests, and review are connected. | Speed with control |
@@ -181,6 +188,8 @@ Show QA engineers how Studio makes expected behavior, evidence, and traceability
 Each overview must lead with the organizational problem before naming Studio mechanics. The audience should first feel the pain: AI creates more code and markdown faster, and that creates control, consistency, completeness, and review problems.
 
 Only after that should the narrator introduce Constructor Studio as the solution: a customizable collaboration environment for teams, roles, workflows, evidence, validation, and traceability.
+
+Production should use narration, on-screen text, subtitles, and simple diagrams together. Do not rely on voice alone when a phase model, evidence chain, or role handoff can be shown visually.
 
 Recurring visual pattern:
 
